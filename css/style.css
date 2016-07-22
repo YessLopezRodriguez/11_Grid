@@ -1,0 +1,48 @@
+
+.fondo1 {
+	background-color: black;
+}
+
+.fondo2 {
+	background-color: #D8D8D8;
+}
+
+.lista1 {
+	color: white;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+li {
+	display: inline;
+	position: relative;
+	top: 70px;
+}
+img {
+	width: 200px;
+	height: 200px;
+}
+
+p {
+	text-align: center;
+	font-family: Arial;
+	font-size: 14px;
+	color: blue;
+}
+.texto_izq {
+	text-align: left;
+}
+.margin_div {
+	margin: 7px 5px;
+}
+.borde_div {
+	border: 1px solid gray;
+	background-color: white;
+	padding: 1px;
+}
+.tamaño_img {
+	width: 80px;
+	height: 80px;
+}
+
+
